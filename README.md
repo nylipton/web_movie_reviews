@@ -1,4 +1,4 @@
-# web_movie_reviews
+# Phil's movie reviews
 
 ## A not very serious app that reviews the latest and greatest movies
 
